@@ -1,6 +1,6 @@
 # Fork Tutorial
 
-(0) Test drive the various fork illustrations discussed in the class </br>
+(0) Test drive the various fork illustrations </br>
 (1) Test drive the variants of exec system call to execute Linux commands </br>
 (2) Odd and Even series generation using Parent Child relationship </br>
 (3) Fibonacci Series / Prime Number generation using parent child relationship. </br>
